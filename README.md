@@ -1,1 +1,3 @@
 # TimeSeriesPlot
+
+![Teaser](TimeSeriesPlot.png)
